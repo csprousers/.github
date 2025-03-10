@@ -18,19 +18,32 @@ The [CSPro Users Forum](https://www.csprousers.org/forum) is a place where users
 
 ## Repositories
 
-There are five primary repositories:
+The primary repositories include:
 
 - [cspro](https://github.com/csprousers/cspro): The code for CSPro and CSEntry.
     - The CSPro suite of programs that runs on Windows is coded in C++ using the [Microsoft Foundation Class](https://learn.microsoft.com/en-us/cpp/mfc/framework-mfc) (MFC) framework. This code is built using [Microsoft Visual Studio](https://visualstudio.microsoft.com).
     - CSEntry, the Android application, is coded in Java and Kotlin and built using [Android Studio](https://developer.android.com/studio).
     - The shared runtime is coded in C++, with the [NDK](https://developer.android.com/ndk) toolset building this for Android.
+
 - [csweb](https://github.com/csprousers/csweb): The web application that allows users to securely transfer cases or files between client devices and a web server.
     - CSWeb is coded in PHP.
+
 - [helps](https://github.com/csprousers/helps): The help documentation distributed with CSPro, which can be [viewed online](https://www.csprousers.org/help/CSPro).
     - The helps are authored using [CSDocument](https://www.csprousers.org/help/CSDocument/introduction.html), a tool distributed with CSPro 8.0+.
-- [examples](https://github.com/csprousers/examples): The examples distributed with CSPro.
-    - The examples are CSPro applications.
-- [workshop-mobile](https://github.com/csprousers/workshop-mobile): Teaching materials for a workshop on data collection using mobile devices.
-    - As with the help documentation, the workshop materials are authored using CSDocument.
 
-Ways to collaborate on these products is described in more detail on each repository's page.
+
+Repositories that contain CSPro applications and training guides:
+
+- [examples](https://github.com/csprousers/examples): The examples distributed with CSPro.
+
+- [feature-showcase](https://github.com/csprousers/feature-showcase): CSPro applications that demonstrate new features introduced at various releases.
+
+- [workshop-mobile](https://github.com/csprousers/workshop-mobile): Teaching materials for a workshop on data collection using mobile devices.
+
+
+Other repositories include:
+
+- [docker-csweb](https://github.com/csprousers/docker-csweb): Docker and Docker Compose files for CSWeb.
+
+
+Ways to collaborate on these products are described in more detail on each repository's page.
