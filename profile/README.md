@@ -31,7 +31,7 @@ The primary repositories include:
     - The helps are authored using [CSDocument](https://csprousers.org/help/CSDocument/introduction.html), a tool distributed with CSPro 8.0+.
 
 
-Repositories that contain CSPro applications and training guides:
+These repositories contain CSPro applications and training guides:
 
 - [examples](https://github.com/csprousers/examples): The examples distributed with CSPro.
 
@@ -40,7 +40,7 @@ Repositories that contain CSPro applications and training guides:
 - [workshop-mobile](https://github.com/csprousers/workshop-mobile): Teaching materials for a workshop on data collection using mobile devices.
 
 
-Repositories that demonstrate how to interact with CSEntry from other Android applications:
+These repositories demonstrate how to interact with CSEntry from other Android applications:
 
 - [android-csentry-launcher](https://github.com/csprousers/android-csentry-launcher): Launching CSEntry from another Android application.
 
@@ -50,6 +50,7 @@ Repositories that demonstrate how to interact with CSEntry from other Android ap
 Other repositories include:
 
 - [docker-csweb](https://github.com/csprousers/docker-csweb): Docker and Docker Compose files for CSWeb.
+- [cspro-libraries](https://github.com/csprousers/cspro-libraries): Prebuilt external libraries, and other binary dependencies, for users who want to [build CSPro](https://github.com/csprousers/cspro/blob/dev/BUILD.md).
 
 
 Ways to collaborate on these products are described in more detail on each repository's page.
