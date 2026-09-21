@@ -50,7 +50,7 @@ These repositories demonstrate how to interact with CSEntry from other Android a
 Other repositories include:
 
 - [docker-csweb](https://github.com/csprousers/docker-csweb): Docker and Docker Compose files for CSWeb.
-- [cspro-libraries](https://github.com/csprousers/cspro-libraries): Prebuilt external libraries, and other binary dependencies, for users who want to [build CSPro](https://github.com/csprousers/cspro/blob/dev/BUILD.md).
+- [cspro-libraries-third-party](https://github.com/csprousers/cspro-libraries-third-party): Prebuilt external libraries, and other binary dependencies, for users who want to [build CSPro](https://github.com/csprousers/cspro/blob/dev/BUILD.md).
 
 
 Ways to collaborate on these products are described in more detail on each repository's page.
